@@ -1,0 +1,20 @@
+.tech-card {
+  width: 90px;
+  height: 90px;
+  background-color: #1DB700;
+  border-radius: 7px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  box-shadow: 0px 4px 6px #0000002a;
+  margin: 0 auto;
+
+}
+
+.tech-card svg {
+  width: 40px; 
+  height: 40px;
+}
+
+

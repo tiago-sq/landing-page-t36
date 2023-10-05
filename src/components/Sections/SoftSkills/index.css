@@ -1,0 +1,17 @@
+.iconBg {
+  width: 90px;
+  height: 90px;
+  background-color: #7e18de;
+  border-radius: 7px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  box-shadow: 0px 4px 6px #0000002a;
+  margin: 0 auto;
+}
+
+.iconBg svg {
+  width: 40px; 
+  height: 40px ;
+}
