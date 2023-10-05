@@ -5,6 +5,7 @@ function Welcome() {
     <div className="container">
       <div className="row align-items-center">
         <div className="col-lg-5 col-md-12 col-12">
+
           <div className="hero-content">
             <h1 className="wow fadeInLeft" data-wow-delay=".4s">Front-end</h1>
             <p

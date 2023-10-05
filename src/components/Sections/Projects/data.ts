@@ -24,17 +24,17 @@ export const PROJECTS_LIST = [
     description: 'Projeto que aborda efeitos colaterais do React, requisições e rotas com o React Router DOM. Você irá desenvolver uma aplicação semelhante ao iTunes onde, após fazer o login, será possível pesquisar por artistas e ver álbuns e músicas relacionadas a ele. Além disso, será possível favoritar músicas,vê-las em uma página separadas e alterar as informações de usuário.',
   },
   {
-    title: 'React Testing Library ✨ 20 pontos',
+    title: 'React Testing Library',
     image: rtl,
     description: 'Projeto em React e TypeScript onde serão desenvolvidas as habilidades de testes de integração com a biblioteca React Testing Library. Você realizará testes de integração com a React Testing Library em uma aplicação que simula uma pokedex.',
   },
   {
-    title: 'Online Store ✨ 30 pontos',
+    title: 'Online Store',
     image: onlineStore,
     description: 'Projeto em grupo que utiliza React e TypeScript para praticar todo conhecimento adquirido até o momento no módulo de Front-end. Você desenvolverá uma loja online, utilizando a API do Mercado Livre e nessa aplicação será possível adicionar e gerenciar produtos no seu carrinho e preencher um formulário de compra e avaliação dos produtos.',
   },
   {
-    title: 'TrybeWallet ✨ 50 pontos',
+    title: 'TrybeWallet',
     image: wallet,
     description: 'Projeto em React e TypeScript onde são desenvolvidas habilidades de estado global com Redux . Você irá desenvolver uma carteira de controle de gastos pessoais, com conversor de moedas, utilizando a API de câmbio para atualizar os valores de acordo com a cotação do dia. Além disso, irá testar sua aplicação utilizando React Testing Library.',
   },

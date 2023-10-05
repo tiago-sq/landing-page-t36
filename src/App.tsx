@@ -16,6 +16,7 @@ import Team from './components/Sections/Team';
 import Projects from './components/Sections/Projects';
 import SectionRoot from './components/Sections/SectionRoot';
 import SoftSkills from './components/Sections/SoftSkills';
+import Fireworks from './components/Fireworks/Fireworks';
 
 function App() {
   const [currentSection, setCurrentSection] = useState('home');
@@ -91,6 +92,7 @@ function App() {
         refEl={ welcomeRef }
       >
         <Welcome />
+        <Fireworks />
       </SectionRoot>
       <SectionRoot
         sectionId="team"

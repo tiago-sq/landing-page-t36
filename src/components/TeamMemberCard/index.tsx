@@ -35,7 +35,12 @@ function TeamMemberCard({
         } }
       >
         <div className="image">
-          <img alt="#" data-pagespeed-url-hash="4182764257" src={ imgSrc } />
+          <img
+            alt="#"
+            data-pagespeed-url-hash="4182764257"
+            src={ imgSrc }
+            style={ { height: '400px' } }
+          />
         </div>
         <div className="content">
           <div className="row align-items-center">
