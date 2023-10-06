@@ -8,6 +8,9 @@ import tiago from '../../../assets/images/members/tiago.png';
 import renato from '../../../assets/images/members/renato.png';
 import jay from '../../../assets/images/members/jay.png';
 import carol from '../../../assets/images/members/carol.png';
+import rafa from '../../../assets/images/members/rafa.png';
+import ander from '../../../assets/images/members/ander.png';
+import will from '../../../assets/images/members/will.png';
 
 type TeamMemberData = TeamMemberCardProps[];
 
@@ -71,5 +74,26 @@ export const data: TeamMemberData = [
     imgSrc: tiago,
     linkedinUrl: 'http://linkedin.com/in/tiago-de-almeida-paz/',
     githubUrl: 'https://github.com/TiagoPaz2000',
+  },
+  {
+    name: 'Rafael Reis do Nascimento',
+    teamRole: 'Instrutor',
+    imgSrc: rafa,
+    linkedinUrl: 'https://www.linkedin.com/in/rafael-reis-do-nascimento/',
+    githubUrl: 'https://github.com/rafaelrnascimento2006',
+  },
+  {
+    name: 'Anderson Souza Santana',
+    teamRole: 'Instrutor',
+    imgSrc: ander,
+    linkedinUrl: 'https://www.linkedin.com/in/andersonssantana/',
+    githubUrl: 'https://github.com/andersonssantana',
+  },
+  {
+    name: 'Willian Rodrigues',
+    teamRole: 'Instrutor',
+    imgSrc: will,
+    linkedinUrl: 'https://www.linkedin.com/in/willianrsilva/',
+    githubUrl: 'https://github.com/Willian-Rodrigues',
   },
 ];

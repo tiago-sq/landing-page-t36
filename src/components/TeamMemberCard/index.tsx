@@ -39,7 +39,7 @@ function TeamMemberCard({
             alt="#"
             data-pagespeed-url-hash="4182764257"
             src={ imgSrc }
-            style={ { height: '400px' } }
+            style={ { height: '350px' } }
           />
         </div>
         <div className="content">
